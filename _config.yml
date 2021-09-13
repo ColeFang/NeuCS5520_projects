@@ -1,4 +1,4 @@
 name: Hongchao Fang, Awesome Dev
-markdown: kramdown
+markdown: markdown
 permalink: /cs5520_project/:year/:month/:day/:title.html
 theme: jekyll-theme-midnight
