@@ -1,4 +1,4 @@
 name: Hongchao Fang, Awesome Dev
 markdown: markdown
-permalink: /cs5520_project/:year/:month/:day/:title.html
+permalink: /NeuCS5520_projects/:year/:month/:day/:title.html
 theme: jekyll-theme-midnight
