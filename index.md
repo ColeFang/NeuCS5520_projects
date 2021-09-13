@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hongchao Fang, Horrible Cop
+title: Hongchao Fang
 ---
 ## Posts
 
