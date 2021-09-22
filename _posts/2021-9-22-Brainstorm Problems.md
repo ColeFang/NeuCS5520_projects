@@ -13,13 +13,13 @@
 10. Seach for shops
 
 **Finance**
-11. Buy a stock
-12. Sell a stock
-13. Robots for buy and sell
-14. Personal signature
-15. Recommend stocks
-16. Show the trending of different stocks
-17. Financial calculator
+11. Buy a stock    
+12. Sell a stock     
+13. Robots for buy and sell  
+14. Personal signature  
+15. Recommend stocks  
+16. Show the trending of different stocks  
+17. Financial calculator  
 
 **Bank**
 18. Save money
