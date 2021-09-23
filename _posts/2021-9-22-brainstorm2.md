@@ -10,7 +10,7 @@
 **Artifacts**: Tools: 
 1. Online shopping app with comment system  
 2. Emotion analysis technology for comments  
-3. Mobile phone  
+3. Mobile phone    
 Information:   
 1. Lots of comments with consumers’ gender, age, nation, location and other products they like  
 
@@ -25,7 +25,7 @@ Information: 
 **Required Knowledge**: The merchant needs to know how to use voice to text application to make the transformation  
 **Artifacts**: Tools: 
 1. Online chatting app / a call  
-2. Mobile phone 
+2. Mobile phone   
 Information:   
 1. Lots of records and corresponding texts.
 
@@ -42,7 +42,7 @@ Information: 
 1. Online shopping app  
 2. Cameras for photos and videos  
 3. Bank app  
-4. Mobile phone  
+4. Mobile phone    
 Information: 
 1. Description and photos for consumers  
 2. How much money the person wants to get from these used things
