@@ -15,6 +15,8 @@ Information: 
 1. Lots of comments with consumers’ gender, age, nation, location and other products they like  
 
 
+
+
 **Transform voice to text**
 
 
@@ -28,6 +30,8 @@ Information: 
 2. Mobile phone   
 Information:   
 1. Lots of records and corresponding texts.
+
+
 
 
 **Sell secondhand things**  
