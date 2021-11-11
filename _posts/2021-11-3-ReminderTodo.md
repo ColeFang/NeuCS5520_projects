@@ -7,8 +7,7 @@ date: 2021-11-03
 
 **Summary**
 
-In this assignment, I successfully built my first application:TodoApp, This app helps record users' tasks and remind them.
-Users can easily set up a new task and edit old tasks.
+In this assignment, add the reminder function in my tasklist app. I also learned how to use the workmanager and notification frame.
 
 <img src="https://raw.githubusercontent.com/ColeFang/NeuCS5520_projects/ph-pages/images/google.png" alt="drawing" width="200"/>
 <img src="https://raw.githubusercontent.com/ColeFang/NeuCS5520_projects/ph-pages/images/todoapp.jpg" alt="drawing" width="200"/>
