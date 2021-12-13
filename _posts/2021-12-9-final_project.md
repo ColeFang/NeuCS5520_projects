@@ -41,6 +41,6 @@ I added some icons which users can click to generate template tasks quickly, whi
 <img src="https://raw.githubusercontent.com/ColeFang/NeuCS5520_projects/ph-pages/images/final/add.jpg" alt="drawing" width="200"/>
 
 
-[Here is the video to the app.](https://github.com/ColeFang/NeuCS5520_projects/ph-pages/images/final/video.mp4)
+[Here is the video to the app.](https://github.com/ColeFang/NeuCS5520_projects/blob/ph-pages/images/final/video.mp4?raw=true4)
 
 [For more details](https://github.com/ColeFang/cs5520projects/tree/main/TodoApp)
