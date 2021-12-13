@@ -30,7 +30,7 @@ Also the UI of the reminder looks better now. The final result look like this.
 
 Last but not least, I implemented the function: when user click on the notification, this notification will bring user to the corresponding page in the ToDo app to show the detail of this task.
 
-<img src="https://raw.githubusercontent.com/ColeFang/NeuCS5520_projects/ph-pages/images/final/notice.jpg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/ColeFang/NeuCS5520_projects/ph-pages/images/final/alarm.jpg" alt="drawing" width="200"/>
 
 ### 3.Enable the access to notification
 I added a window to remind users enable the access to notification.
