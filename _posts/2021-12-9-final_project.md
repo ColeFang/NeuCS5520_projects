@@ -8,7 +8,7 @@ date: 2021-12-9
 # Summary
 
 
-## In the final project, I want to extend the ToDo app. My improvements can be mainly separated to three part:
+## In the final project, I extended the ToDo app. My improvements can be mainly separated to four part:
 
 ### 1.Improve the UI 
 
